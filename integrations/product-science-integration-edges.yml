@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/product-science/integrations
+- https://n8n.io/integrations/product-science/
+- https://composio.dev/toolkits/product-science
+- https://monid.ai/tools/product-science
+checked:
+- https://composio.dev/toolkits/product-science
+- https://monid.ai/tools/product-science
+- https://n8n.io/integrations/product-science/
+- https://zapier.com/apps/product-science/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
